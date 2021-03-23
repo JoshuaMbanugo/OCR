@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4dadcf</color>
+    <color name="colorPrimaryDark">#0e73ed</color>
+    <color name="colorAccent">#bb5af4</color>
+    
+<style name="llstylish">
+    <item name="android:background"> #4dadcf</item>
+</style>
+</resources>
